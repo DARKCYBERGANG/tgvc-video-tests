@@ -1,1 +1,1 @@
-worker: python -m vcbot
+web: python -m vcbot
